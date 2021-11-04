@@ -8,7 +8,7 @@ module.exports = {
       fontFamily: {
         sans: ['"Inter"', ...defaultTheme.fontFamily.sans],
       },
-      color: {
+      colors: {
         gray: colors.slate,
         primary: colors.blue,
       },
