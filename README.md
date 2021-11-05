@@ -2,4 +2,4 @@
 
 Switch base64 / utf-8
 
-[to64.netlify.app/](to64.netlify.app/)
+[to64.netlify.app/](https://to64.netlify.app/)
